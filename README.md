@@ -71,7 +71,7 @@ Certifique-se de ter o **R** e o **RStudio** instalados em seu ambiente de desen
 
 1. Clone este repositório em sua máquina:
 ```bash
-git clone [https://github.com/SEU_USUARIO_CORRETO/trabalhoFinalProbEst.git](https://github.com/SEU_USUARIO_CORRETO/trabalhoFinalProbEst.git)
+git clone https://github.com/AMZBoss215/trabalhoFinalProbEst.git
 
 ```
 
@@ -82,9 +82,9 @@ git clone [https://github.com/SEU_USUARIO_CORRETO/trabalhoFinalProbEst.git](http
 
 ---
 
-## ⚖️ Licença
+## ⚖️ Licença, Termos de Uso e Créditos Acadêmicos
 
-Este projeto está licenciado sob a **Licença MIT** - consulte o arquivo [LICENSE](./LICENSE) para obter detalhes. O código é livre para modificação, distribuição e uso em portfólios, mantendo a atribuição original do autor.
+Este repositório, licenciado sob a **Licença MIT** - mais informações no arquivo [LICENSE](./LICENSE),  é público para fins de portfólio, auditoria acadêmica e reprodutibilidade científica. Em conformidade com o regulamento da disciplina, o conteúdo deste projeto (código e lógica de modelagem) está autorizado para uso, menção e replicação em outras atividades acadêmicas e pedagógicas, desde que explicitamente citada a autoria original e o vínculo institucional com o **ICET/UFAM** descritos nos metadados deste repositório.
 
 ---
 
